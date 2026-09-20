@@ -1,1 +1,5 @@
-# RGB_LED_Heart_Firmware
+# RGB LED Heart Firmware
+
+Firmware releases for RGB LED Heart.
+
+Firmware files are provided for OTA updates.
